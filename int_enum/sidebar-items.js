@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IntEnumError","An error when attempting to convert an integer into an enum."]],"trait":[["IntEnum","Trait used for implementations of integer and enum conversions."]]});
